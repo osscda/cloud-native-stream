@@ -1,5 +1,7 @@
 # Cloud Native Wednesdays
 
+>CNuW - See n You Wednesdays!
+
 Cloud Native Wednesdays is a live stream series hosted by [arschles](https://github.com/arschles) ([Twitter](https://twitter.com/arschles)) and [iennae](https://github.com/iennae) ([Twitter](https://twitter.com/sigje)). We cover a wide variety of topics, but we're always talking about all things [Cloud Native](https://cncf.io)!
 
 Screencasts happen every Wednesday at 1:30pm US Pacific Time, on [twitch.tv/arschles](https://twitch.tv/arschles).
